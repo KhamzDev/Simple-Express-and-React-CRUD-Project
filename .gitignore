@@ -1,0 +1,12 @@
+
+Express/node_modules/
+React/node_modules/
+
+
+Express/.env
+React/.env
+.env
+
+
+.DS_Store
+Thumbs.db
